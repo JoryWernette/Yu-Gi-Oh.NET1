@@ -1,0 +1,11 @@
+Tri-Horned Dragon
+Monster
+Normal
+Dragon
+----
+Dark
+8
+2850
+2350
+An unworthy dragon with three sharp horns sprouting from its head.
+Unlimited (3)

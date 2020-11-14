@@ -1,0 +1,11 @@
+Hitotsu-Me Giant
+Monster
+Normal
+Beast-Warrior
+----
+Earth
+3
+1200
+1000
+A one-eyed behemoth with thick powerful arms made for delivering punishing blows.
+Unlimited (3)

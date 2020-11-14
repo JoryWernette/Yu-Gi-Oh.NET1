@@ -1,0 +1,11 @@
+Celtic Guardian
+Monster
+Normal
+Warrior
+----
+Earth
+4
+1400
+1200
+An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.
+Unlimited (3)

@@ -1,0 +1,11 @@
+Basic Insect
+Monster
+Normal
+Insect
+----
+Earth
+2
+500
+700
+Usually found traveling in swarms this creature"s ideal environment is the forest.
+Unlimited (3)

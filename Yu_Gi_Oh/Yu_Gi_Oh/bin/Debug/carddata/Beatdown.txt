@@ -1,0 +1,15 @@
+| 3 | Mystical Elf
+| 3 | Giant Soldier of Stone
+| 3 | Man-Eater Bug
+| 3 | Hane-Hane
+| 3 | Aqua Madoor
+| 3 | Blue-Eyes White Dragon
+| 2 | Dark Magician
+| 3 | Dark Hole
+| 1 | Raigeki
+| 1 | Swords of Revealing Light
+| 3 | Monster Reborn
+| 3 | Fissure
+| 3 | Hinotama
+| 3 | Book of Secret Arts
+| 3 | Trap Hole

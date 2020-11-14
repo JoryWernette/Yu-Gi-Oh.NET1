@@ -1,0 +1,15 @@
+| 3 | Mystical Elf
+| 3 | Giant Soldier of Stone
+| 3 | Man-Eater Bug
+| 3 | Hane-Hane
+| 3 | Aqua Madoor
+| 2 | Curse of Dragon
+| 2 | Spirit of the Harp
+| 2 | Reaper of the Cards
+| 3 | Dark Hole
+| 1 | Raigeki
+| 3 | Swords of Revealing Light
+| 3 | Monster Reborn
+| 3 | Fissure
+| 3 | Trap Hole
+| 3 | Dragon Capture Jar

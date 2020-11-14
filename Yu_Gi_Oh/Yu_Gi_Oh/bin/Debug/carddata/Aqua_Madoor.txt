@@ -1,0 +1,11 @@
+Aqua Madoor
+Monster
+Normal
+Spellcaster
+----
+Water
+3
+1200
+2000
+A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.
+Unlimited (3)

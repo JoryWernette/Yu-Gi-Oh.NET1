@@ -1,0 +1,11 @@
+Skull Servant
+Monster
+Normal
+Zombie
+----
+Dark
+1
+300
+200
+A skeletal ghost that is not strong but can mean trouble in large numbers.
+Unlimited (3)

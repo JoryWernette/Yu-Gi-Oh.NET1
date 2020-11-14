@@ -1,0 +1,11 @@
+Flame Swordsman
+Monster
+Fusion
+Warrior
+----
+Fire
+5
+3000
+2500
+"Flame Manipulator" + "Masaki the Legendary Swordsman"
+Unlimited (3)

@@ -1,0 +1,12 @@
+Dark Magician
+Monster
+Normal
+Spellcaster
+----
+Dark
+7
+2500
+2100
+The ultimate wizard in terms of attack and defense.
+2500
+2100

@@ -1,0 +1,11 @@
+Gaia the Fierce Knight
+Monster
+Normal
+Warrior
+----
+Earth
+7
+2300
+2100
+A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.
+Unlimited (3)
